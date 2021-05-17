@@ -1,0 +1,17 @@
+#intro {
+     background: linear-gradient(to bottom, #00ffcc 0%, #ffff99 100%);
+    height: 20%;
+    width: 100%;
+    text-align: center;
+    color: blueviolet;
+}
+
+#hooby {
+    background: linear-gradient(to bottom, #00ffcc 0%, #ff3399 100%);
+     text-align: center;
+    color: aqua;
+}
+#about{
+    background: linear-gradient(to bottom, #ffff00 0%, #ff6600 63%);
+    color: darkredr: 
+}
