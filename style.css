@@ -16,3 +16,10 @@
     background: linear-gradient(to bottom, #ffff00 0%, #ff6600 63%);
     color: darkredr:
 }
+#mycats {
+   background: linear-gradient(to bottom, #00ffcc 0%, #ffff00 63%); 
+    color:linear-gradient(to bottom, cyan 0%, darkcyan 63%);
+}
+#piano {
+     background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
